@@ -9,4 +9,4 @@ public_licenses:
 layout: indie
 ---
 
-Civilized Discourse Cosntruction Kit develops [Discourse](https://discourse.org) forum softare.
+Civilized Discourse Construction Kit develops [Discourse](https://discourse.org) forum software.
